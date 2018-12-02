@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477432722 source:c:\users\alege\desktop\programming\solitare\main.c
+	<allegro.h>
+	<stdio.h>
+
+1477604133 source:c:\users\allan\desktop\solitare\main.c
+	<allegro.h>
+	<stdio.h>
+
+1488245881 source:c:\users\allan\documents\games indev\solitare\main.c
+	<allegro.h>
+	<stdio.h>
+
